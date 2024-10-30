@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anupam-pradhan
-- 👀 I’m interested in laravel  
+- 👀 I’m interested in Programming  
 - 🌱 I’m currently learning laravel
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email : anupampradhanemail@gmail.com
